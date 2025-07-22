@@ -74,7 +74,7 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - [**AI Tools** in the Workplace Certificate – Covered Prompt Engineering, ChatGPT](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997464725)
 - [**Deloitte** Data Analysis Virtual Internship (Forage) – June 2025](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_FXnXvbub659F2QA5d_1750949541838_completion_certificate.pdf)
 - [**Predictive Modeling** : Forecast Like a Post - July 2025](https://www.cert.devtown.in/verify/1OTY0M)
-- [**5 Days Python for Data Science Bootcamp** - July 2025]
+- **5 Days Python for Data Science Bootcamp** - July 2025
 - IEEE Student Branch Member – 2022 to 2023 Video and Image Editing Contributor – IEEE Student Branch
 
 ---
