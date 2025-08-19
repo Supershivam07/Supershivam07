@@ -90,8 +90,8 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - [**Excel Using AI Workshop** - July 2025](https://certx.in/certificate/27e0774f-467d-45de-9d54-33382f67ff0e497730)
 - [**Work Ready Certificate** by BEEP and Shark Tank - July 2025](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340?trk=share_certificate)
 - [**AI Dashboards using Microsoft Power BI** - July 2025](https://verify.skillnation.ai/certificate?certificate_id=6888a48e526aab69b4ce7099)
-- [**Machine Learning with Python** : k-Means Clustering by LinkedIn Learning](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340)
-- [Freedom withh AI Masterclass](https://drive.google.com/file/d/1ofJ1IwcrdbxKDdkld5c5i0R6wZinECPO/view?usp=drivesdk)
+- [**Machine Learning with Python** : k-Means Clustering by LinkedIn Learning - July 2025](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340)
+- [Freedom withh AI Masterclass - August 2025](https://drive.google.com/file/d/1ofJ1IwcrdbxKDdkld5c5i0R6wZinECPO/view?usp=drivesdk)
 - [BUILD AN AI THAT SEES : IMAGE RECOGNITION](https://www.cert.devtown.in/verify/Z1IsHdI)
 - **5 Days Python for Data Science Bootcamp** - July 2025
 - IEEE Student Branch Member – 2022 to 2023 Video and Image Editing Contributor – IEEE Student Branch
