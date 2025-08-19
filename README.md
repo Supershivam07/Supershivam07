@@ -72,19 +72,13 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 
 ---
 
-####  Repository Structure
-
-
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🎓 **Research Intern** – ISRO, Space Applications Centre, Ahmedabad  
 - 🌍 Developed and author of a **research paper** on planetary image enhancement pipelines for Earth and interplanetary missions  
 - 🏅 Built fully custom **no-reference image quality metrics** (BRISQUE, NIQE, PIQE, etc.) without third-party libraries on ISRO DGX cluster  
 - 🚀 Contributor to **advanced AI solutions** for satellite change detection and image restoration is ISRO
-- [**AI Tools** in the Workplace Certificate – Covered Prompt Engineering, ChatGPT](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997464725)
+- [**AI Tools** in the Workplace Certificate : Covered Prompt Engineering, ChatGPT - June 2025](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997464725)
 - [**Deloitte** Data Analysis Virtual Internship (Forage) – June 2025](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_FXnXvbub659F2QA5d_1750949541838_completion_certificate.pdf)
 - [**Predictive Modeling** : Forecast Like a Pro - July 2025](https://www.cert.devtown.in/verify/1OTY0M)
 - [**Excel Using AI Workshop** - July 2025](https://certx.in/certificate/27e0774f-467d-45de-9d54-33382f67ff0e497730)
@@ -92,7 +86,7 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - [**AI Dashboards using Microsoft Power BI** - July 2025](https://verify.skillnation.ai/certificate?certificate_id=6888a48e526aab69b4ce7099)
 - [**Machine Learning with Python** : k-Means Clustering by LinkedIn Learning - July 2025](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340)
 - [Freedom withh AI Masterclass - August 2025](https://drive.google.com/file/d/1ofJ1IwcrdbxKDdkld5c5i0R6wZinECPO/view?usp=drivesdk)
-- [BUILD AN AI THAT SEES : IMAGE RECOGNITION](https://www.cert.devtown.in/verify/Z1IsHdI)
+- [BUILD AN AI THAT SEES : IMAGE RECOGNITION - August 2025](https://www.cert.devtown.in/verify/Z1IsHdI)
 - **5 Days Python for Data Science Bootcamp** - July 2025
 - IEEE Student Branch Member – 2022 to 2023 Video and Image Editing Contributor – IEEE Student Branch
 
