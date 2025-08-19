@@ -63,6 +63,19 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - Integrated **reflection padding** and evaluated using **no-reference IQA metrics**  
 - Achieved superior enhancement in low-texture crater regions and edge fidelity
 
+### 🎯 Vision-AI in 5 Days – CIFAR-10  
+- Built a complete **image classification pipeline** using CIFAR-10 dataset  
+- Developed a **baseline CNN** and advanced to **MobileNetV2 transfer learning**  
+- Implemented **training, evaluation, and real-time inference scripts**  
+- Visualized results with **confusion matrices, training history, and accuracy plots**  
+- Designed as an **educational and research-friendly framework** for rapid AI prototyping  
+
+---
+
+####  Repository Structure
+
+
+
 ---
 
 ## 🏆 Achievements & Recognition
