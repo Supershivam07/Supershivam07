@@ -68,7 +68,15 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - Developed a **baseline CNN** and advanced to **MobileNetV2 transfer learning**  
 - Implemented **training, evaluation, and real-time inference scripts**  
 - Visualized results with **confusion matrices, training history, and accuracy plots**  
-- Designed as an **educational and research-friendly framework** for rapid AI prototyping  
+- Designed as an **educational and research-friendly framework** for rapid AI prototyping
+
+### 🎤 Speech-to-Text Project Highlights  
+- 🧠 **Multi-Language Support** – Offline Speech Recognition for **English, Hindi & Gujarati** using optimized language models.  
+- ⚡ **Lightweight Execution** – Core files like `offline_stt.py`, `offline_stt_hi.py`, and `offline_stt_gu.py` handle speech-to-text efficiently without heavy dependencies.  
+- 🔧 **Configurable & Scalable** – `settings.json` allows easy customization, and the project supports modular expansion for additional languages.  
+- 🧪 **Testing Made Easy** – `test_stt.py` enables quick testing & validation of all models for smooth execution.  
+- ☁ **External Model Hosting** – Heavy models stored on **Google Drive** for easy download.  
+
 
 ---
 
