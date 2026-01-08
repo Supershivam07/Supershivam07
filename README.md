@@ -10,8 +10,8 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 
 - 🔭 Recently developed **GAN, ResNet, and U-Net based pipelines** for enhancing planetary surface images using **reflection padding**, **feathered stitching**, and **perceptual quality metrics**.  
 - 🌍 My work focuses on **Mars terrain analysis**, **crater detection**, and **super-resolution** for space applications.  
-- 📚 I’m consistently learning and pushing boundaries in **Geospatial AI**, **Vision Transformers**, and **Self-supervised Learning**.  
-- 💬 Ask me about: Deep Learning, Image Enhancement, GANs, U-Nets, Satellite Imagery, or anything Space-Tech + AI!  
+- 📚 I’m consistently learning and pushing boundaries in **Data Science**, **Deep Learning**, and **Computer Vision**.  
+- 💬 Ask me about: Deep Learning, GEN AI Tools, Image Processing, Data Science, LLMs, Satellite Imagery, or anything Space-Tech + AI!  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-raval-068320223/) | [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNrccJfLnbvWnDjnDmcQnqvtXNmXFKrKsJwdfrsvkRjTvlvRNBrCGkXzbXXflsfkKwLvSB)
 
 ---
@@ -68,14 +68,14 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - Visualized results with **confusion matrices, training history, and accuracy plots**  
 - Designed as an **educational and research-friendly framework** for rapid AI prototyping
 
-### 🎤 Speech-to-Text Project Highlights  
+### 🎤 Speech-to-Text AI
 -  **Multi-Language Support** – Offline Speech Recognition for **English, Hindi & Gujarati** using optimized language models.  
 -  **Lightweight Execution** – Core files like `offline_stt.py`, `offline_stt_hi.py`, and `offline_stt_gu.py` handle speech-to-text efficiently without heavy dependencies.  
 -  **Configurable & Scalable** – `settings.json` allows easy customization, and the project supports modular expansion for additional languages.  
 -  **Testing Made Easy** – `test_stt.py` enables quick testing & validation of all models for smooth execution.  
 -  **External Model Hosting** – Heavy models stored on **Google Drive** for easy download.
 
-### ⭐ AI-Powered Trending Topic Research Automation — Project Highlights
+### ⭐ AI-Powered Trending Topic Research Automation (N8N)
 - **End-to-End Automation** - Fully scheduled n8n workflow that automates trending topic research without manual execution.
 - **Dynamic Keyword Selection** - Rotational keyword strategy ensures diversified and unbiased trend discovery across executions.
 - **Multi-Platform Data Integration** - Aggregates trending signals from YouTube Data API v3 and NewsAPI with fault-tolerant design.
@@ -91,7 +91,7 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - 🎓 **Research Intern** – ISRO, Space Applications Centre, Ahmedabad  
 - 🌍 Developed and author of a **research paper** on planetary image enhancement pipelines for Earth and interplanetary missions  
 - 🏅 Built fully custom **no-reference image quality metrics** (BRISQUE, NIQE, PIQE, etc.) without third-party libraries on ISRO DGX cluster  
-- 🚀 Contributor to **advanced AI solutions** for satellite change detection and image restoration is ISRO
+- 🚀 Contributor to **advanced AI solutions** for satellite change detection and image restoration in ISRO
 - [**AI Tools** in the Workplace Certificate : Covered Prompt Engineering, ChatGPT - June 2025](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997464725)
 - [**Deloitte** Data Analysis Virtual Internship (Forage) – June 2025](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_FXnXvbub659F2QA5d_1750949541838_completion_certificate.pdf)
 - [**Predictive Modeling** : Forecast Like a Pro - July 2025](https://www.cert.devtown.in/verify/1OTY0M)
