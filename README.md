@@ -31,9 +31,7 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 **AI/ML Frameworks** : TensorFlow, Keras, PyTorch, OpenCV  
 **Concepts** : Deep Learning, CNNs, GANs, Image Preprocessing, Computer Vision, Data Science, Prompt Engineering  
 **Tools** : GEN AI Tools, NumPy, Pandas, Matplotlib, Git, Microsoft Office, Adobe Illustrator, Canva, Power BI, Excel, Canva, Jupyter Notebook, Google Colab, VS Code 
-
 **Other** : UI Designing, Editing, Data Analytics
-
 **Soft Skills** : Analytical Thinking, Research-Oriented Mindset, Attention to Detail, Collaboration and Teamwork, Time Management
 
 ---
