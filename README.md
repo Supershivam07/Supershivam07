@@ -71,11 +71,19 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - Designed as an **educational and research-friendly framework** for rapid AI prototyping
 
 ### 🎤 Speech-to-Text Project Highlights  
-- 🧠 **Multi-Language Support** – Offline Speech Recognition for **English, Hindi & Gujarati** using optimized language models.  
-- ⚡ **Lightweight Execution** – Core files like `offline_stt.py`, `offline_stt_hi.py`, and `offline_stt_gu.py` handle speech-to-text efficiently without heavy dependencies.  
-- 🔧 **Configurable & Scalable** – `settings.json` allows easy customization, and the project supports modular expansion for additional languages.  
-- 🧪 **Testing Made Easy** – `test_stt.py` enables quick testing & validation of all models for smooth execution.  
-- ☁ **External Model Hosting** – Heavy models stored on **Google Drive** for easy download.  
+-  **Multi-Language Support** – Offline Speech Recognition for **English, Hindi & Gujarati** using optimized language models.  
+-  **Lightweight Execution** – Core files like `offline_stt.py`, `offline_stt_hi.py`, and `offline_stt_gu.py` handle speech-to-text efficiently without heavy dependencies.  
+-  **Configurable & Scalable** – `settings.json` allows easy customization, and the project supports modular expansion for additional languages.  
+-  **Testing Made Easy** – `test_stt.py` enables quick testing & validation of all models for smooth execution.  
+-  **External Model Hosting** – Heavy models stored on **Google Drive** for easy download.
+
+### ⭐ AI-Powered Trending Topic Research Automation — Project Highlights
+- **End-to-End Automation** - Fully scheduled n8n workflow that automates trending topic research without manual execution.
+- **Dynamic Keyword Selection** - Rotational keyword strategy ensures diversified and unbiased trend discovery across executions.
+- **Multi-Platform Data Integration** - Aggregates trending signals from YouTube Data API v3 and NewsAPI with fault-tolerant design.
+- **AI-Driven Content Ideation** - LLM-oriented analysis pipeline designed to synthesize cross-platform trends and generate strategic content ideas.
+- **Structured Output Storage** - Automatically persists insights into Google Sheets using timestamped, structured records for downstream use.
+
 
 
 ---
