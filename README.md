@@ -18,23 +18,21 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 
 ## 🛠️ Technologies & Tools
 
-**Languages:**  Python, SQL  
-**Deep Learning & Visualization:**  TensorFlow, Keras, PyTorch, OpenCV, Matplotlib  
 **Image Enhancement Models:**  CNN, U-Net, GAN (Pix2Pix, CycleGAN), ResNet, Reflection Padding, Feathered Stitching  
 **Computer Vision & Preprocessing:**  Satellite Imagery, Crater Detection, MSR, CLAHE, Adaptive Gamma Correction, Median Filter, Bilateral Filter, SSR, Mars Image Enhancement  
 **No-Reference Metrics (Custom NumPy):**  BRISQUE, NIQE, PIQE, Entropy, SNR, HVS  
-**Tools:**  Jupyter Notebook, Google Colab, VS Code, Git, Power BI, Microsoft Office  
 **Cloud & Compute:**  NVIDIA DGX, Google Colab GPU, ISRO-HPC  
 
 ---
 
 ## 🧰 TECHNICAL SKILLS
 
-**Languages** : Python, SQL, HTML, CSS  
+**Languages** : Python, C, HTML, CSS, SQL
 **AI/ML Frameworks** : TensorFlow, Keras, PyTorch, OpenCV  
 **Concepts** : Deep Learning, CNNs, GANs, Image Preprocessing, Computer Vision, Data Science, Prompt Engineering  
-**Tools** : AI Tools, NumPy, Pandas, Matplotlib, Git, Microsoft Office, Adobe Illustrator, Canva, Power BI, Excel
+**Tools** : GEN AI Tools, NumPy, Pandas, Matplotlib, Git, Microsoft Office, Adobe Illustrator, Canva, Power BI, Excel, Canva, Jupyter Notebook, Google Colab, VS Code
 **Other** : UI Designing, Editing, Data Analytics
+**Soft Skills** : Analytical Thinking, Research-Oriented Mindset, Attention to Detail, Collaboration and Teamwork, Time Management
 
 ---
 
@@ -101,9 +99,9 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - [**Work Ready Certificate** by BEEP and Shark Tank - July 2025](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340?trk=share_certificate)
 - [**AI Dashboards using Microsoft Power BI** - July 2025](https://verify.skillnation.ai/certificate?certificate_id=6888a48e526aab69b4ce7099)
 - [**Machine Learning with Python** : k-Means Clustering by LinkedIn Learning - July 2025](https://www.linkedin.com/learning/certificates/82e96acdadcad65b43c4d351c33cf62031017e4262dae47a63ce1e979bade340)
+- **5 Days Python for Data Science Bootcamp** - July 2025
 - [Freedom withh AI Masterclass - August 2025](https://drive.google.com/file/d/1ofJ1IwcrdbxKDdkld5c5i0R6wZinECPO/view?usp=drivesdk)
 - [BUILD AN AI THAT SEES : IMAGE RECOGNITION - August 2025](https://www.cert.devtown.in/verify/Z1IsHdI)
-- **5 Days Python for Data Science Bootcamp** - July 2025
 - IEEE Student Branch Member – 2022 to 2023 Video and Image Editing Contributor – IEEE Student Branch
 
 ---
