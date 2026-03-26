@@ -82,6 +82,18 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - **AI-Driven Content Ideation** - LLM-oriented analysis pipeline designed to synthesize cross-platform trends and generate strategic content ideas.
 - **Structured Output Storage** - Automatically persists insights into Google Sheets using timestamped, structured records for downstream use.
 
+### ⭐ Keyword Intelligence Agent (AI-Powered SEO Research Engine)
+- **3-Step Intelligent Workflow** - Structured pipeline that sequentially performs keyword extraction, title generation, and outline creation with controlled user interaction.
+- **Search Engine Simulation** - Uses LLM-based reasoning to replicate real Google search behavior and identify top-ranking pages with high SEO relevance.
+- **Advanced Keyword Intelligence** - Extracts and deduplicates high-ranking SEO keywords based on content signals from authoritative sources.
+- **SEO-Optimized Title Generation** - Produces high-conversion blog titles aligned with search intent, keyword placement, and ranking patterns.
+- **Dynamic Outline Generation** - Builds context-aware blog structures with variable H2/H3 hierarchy based on topic depth and semantic coverage.
+- **User-Guided Content Flow** - Enables keyword and title selection to improve relevance and downstream content quality.
+- **Robust URL Validation Pipeline** - Implements filtering including invalid links, soft 404 detection, and topic relevance validation.
+- **Real-Time Streaming Architecture** - Uses FastAPI streaming responses to deliver progressive outputs with step-wise feedback.
+- **Fault-Tolerant Generation System** - Includes retry logic and strict JSON parsing to handle inconsistent LLM outputs.
+- **Modular Backend Design** - Clean separation of agent logic, LLM client, and utilities for scalability and maintainability.
+
 
 
 ---
