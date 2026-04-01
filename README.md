@@ -1,38 +1,52 @@
 # 👋 Hi there, I'm Shivam Raval!
 
-Welcome to my GitHub! I’m a passionate **AI Researcher**, **AI Tools Expert**, and **Computer Vision Specialist** focused on **planetary image enhancement**, **satellite imagery processing**, and **advanced deep learning techniques**.  
-I love building solutions that bridge the gap between **space science** and **artificial intelligence**.  
-I recently completed a **research internship at ISRO – Space Applications Centre**, where I developed enhancement models for **Martian surface imagery**.
+Welcome to my GitHub! I’m a passionate **AI Engineer**, **AI Researcher**, and **Computer Vision Specialist** focused on **planetary image enhancement**, **LLM-based systems**, and **intelligent automation**.  
+I love building solutions that bridge the gap between **space science**, **artificial intelligence**, and **real-world applications**.  
+I completed a **research internship at ISRO – Space Applications Centre**, and recently worked as an **AI Intern at Creole Studios**, building production-level AI systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Recently developed **GAN, ResNet, and U-Net based pipelines** for enhancing planetary surface images using **reflection padding**, **feathered stitching**, and **perceptual quality metrics**.  
-- 🌍 My work focuses on **Mars terrain analysis**, **crater detection**, and **super-resolution** for space applications.  
-- 📚 I’m consistently learning and pushing boundaries in **Data Science**, **Deep Learning**, and **Computer Vision**.  
-- 💬 Ask me about: Deep Learning, GEN AI Tools, Image Processing, Data Science, LLMs, Satellite Imagery, or anything Space-Tech + AI!  
+- 🔭 Developed **GAN, ResNet, and U-Net pipelines** for planetary image enhancement using **reflection padding**, **feathered stitching**, and perceptual quality metrics.  
+- 🤖 Built **LLM-based systems** including an **SEO Intelligence Agent** using **Gemini AI + FastAPI** for keyword research, title generation, and content structuring.  
+- ⚙️ Engineered a **Zoho Task Automation System** integrating APIs (Zoho, Google Sheets, Gmail) to automate workflows and reduce manual effort.  
+- 🌍 My work spans **Mars terrain analysis**, **automation systems**, and **AI-driven content intelligence**.  
+- 📚 Continuously exploring **Generative AI, Agentic AI, Backend Systems, and Scalable AI Architectures**.  
+- 💬 Ask me about: Deep Learning, Generative AI, LLMs, FastAPI, Automation, Computer Vision, or Space-Tech + AI!  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-raval-068320223/) | [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNrccJfLnbvWnDjnDmcQnqvtXNmXFKrKsJwdfrsvkRjTvlvRNBrCGkXzbXXflsfkKwLvSB)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+**AI & LLM Systems:**  Gemini AI, Generative AI, LLMs, Prompt Engineering, Agentic AI, RAG  
+**Backend & APIs:**  FastAPI, AsyncIO, REST APIs, OAuth 2.0, Streaming APIs  
 **Image Enhancement Models:**  CNN, U-Net, GAN (Pix2Pix, CycleGAN), ResNet, Reflection Padding, Feathered Stitching  
-**Computer Vision & Preprocessing:**  Satellite Imagery, Crater Detection, MSR, CLAHE, Adaptive Gamma Correction, Median Filter, Bilateral Filter, SSR, Mars Image Enhancement  
-**No-Reference Metrics (Custom NumPy):**  BRISQUE, NIQE, PIQE, Entropy, SNR, HVS  
+**Computer Vision & Preprocessing:**  Satellite Imagery, Crater Detection, MSR, CLAHE, Adaptive Gamma, SSR, Mars Image Enhancement  
+**Metrics (Custom NumPy):**  BRISQUE, NIQE, PIQE, Entropy, SNR, HVS  
 **Cloud & Compute:**  NVIDIA DGX, Google Colab GPU, ISRO-HPC  
 
 ---
 
 ## 🧰 TECHNICAL SKILLS
 
-**Languages** : Python, C, HTML, CSS, SQL  
-**AI/ML Frameworks** : TensorFlow, Keras, PyTorch, OpenCV  
-**Concepts** : Deep Learning, CNNs, GANs, Image Preprocessing, Computer Vision, Data Science, Prompt Engineering  
-**Tools** : GEN AI Tools, NumPy, Pandas, Matplotlib, Git, Microsoft Office, Adobe Illustrator, Canva, Power BI, Excel, Canva, Jupyter Notebook, Google Colab, VS Code  
-**Other** : UI Designing, Editing, Data Analytics  
-**Soft Skills** : Analytical Thinking, Research-Oriented Mindset, Attention to Detail, Collaboration and Teamwork, Time Management  
+**Languages** : Python, C, HTML, CSS, Git
+**AI/ML Frameworks** : TensorFlow, Keras, PyTorch, OpenCV, Langchain, RAG
+**Concepts** : Deep Learning, CNNs, GANs, Computer Vision, Generative AI, LLMs, Prompt Engineering, AI System Design  
+**Backend & Systems** : FastAPI, API Integration, Automation Systems, Async Programming, Scalable Architectures  
+**Tools** : NumPy, Pandas, Matplotlib, Git, Power BI, Excel, Jupyter, Google Colab, VS Code, Canva  
+**Other** : UI Designing, Data Analytics, Workflow Automation  
+**Soft Skills** : Analytical Thinking, Problem Solving, Research Mindset, Team Collaboration, Time Management  
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building **AI-powered automation systems**  
+- 🤖 Developing **LLM-based intelligent applications**  
+- ⚡ Designing **scalable backend architectures for AI systems**  
+- 🌍 Solving **real-world problems using AI + data-driven approaches**
 
 ---
 
