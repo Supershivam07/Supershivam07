@@ -94,6 +94,17 @@ I recently completed a **research internship at ISRO – Space Applications Cent
 - **Fault-Tolerant Generation System** - Includes retry logic and strict JSON parsing to handle inconsistent LLM outputs.
 - **Modular Backend Design** - Clean separation of agent logic, LLM client, and utilities for scalability and maintainability.
 
+### ⭐ Zoho Task Automation Engine (AI-Powered Workflow Automation System)
+- **End-to-End Task Automation** - Built a backend system to automate task creation, tracking, and workflow execution across Zoho Projects.
+- **Multi-Platform Integration** - Seamlessly integrates Zoho Projects, Google Sheets, and Gmail for synchronized data flow and communication.
+- **Bulk Task Processing Engine** - Enables large-scale task creation from structured Google Sheets data with optimized batch operations.
+- **Smart User Mapping System** - Implements persistent user ID management to ensure accurate task assignment and tracking.
+- **Automated Notification System** - Syncs task updates with Gmail to trigger automated email reminders and communication flows.
+- **Hierarchical Task Management** - Supports parent-child task structures for better organization and project scalability.
+- **OAuth 2.0 Authentication Handling** - Secure API integration with automatic token refresh for uninterrupted system operation.
+- **Performance Optimization Pipeline** - Reduced execution time from ~2 minutes to ~5 seconds using batch API calls and efficient data handling.
+- **Error Handling & Data Validation** - Ensures reliability through structured validation, exception handling, and fault tolerance.
+- **Scalable Backend Architecture** - Built using FastAPI with modular design for maintainability and production-level scalability.
 
 
 ---
